@@ -1,36 +1,23 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: Soi Kèo
 ---
+### SOI KÈO WEBSITE HÀNG ĐẦU VỀ TIP BÓNG ĐÁ
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+**[Soi Kèo](https://soikeo.sk/)** Là một trong những website tổng hợp thông tin nhận định bóng đá cũng như trang tip bóng đá lớn nhất hàng đầu hơn thập kỷ qua từ năm 2007. Soi Kèo thu hút bình quân hơn 500 nghìn lượt truy cập mỗi ngày cũng như duy trì được lượng khách trung thành đối với website(nguồn phân tích thứ hạng).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Soi Kèo cung cấp tới người xem những tin tức bóng đá mới nhất, những tin thể thao cập nhật tổng hợp nhanh và tin ảnh bên lề cầu thủ, cuộc sống xuyên suốt cùng với hình ảnh, video clips cập nhật liên tục.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Soi Kèo còn là nơi để người xem tham khảo về lịch thi đấu, kết quả, dự đoán tỷ số, tỷ lệ kèo trận đấu, kèo nhà cái sáng nhất...
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Soi Kèo đem đến bạn [tip miễn phí](https://soikeo.sk/xemtinnhandinhmienphi.php) cập nhật mới nhất hàng ngày và chất lượng nhằm trở thành nguồn tham khảo tốt nhất cho bạn. Bên cạnh đó chúng tôi còn đem đến bạn dịch vụ TIP chất lượng cao và uy tín nhất từ 2007.
 
-## Tech Stack
+Chuyên trang số 1 về [tip bóng đá](https://soikeo.sk/) trong top 10 trang tip bóng đá hiện nay.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+**Tip bóng đá** được đưa ra với thông tin chuẩn xác và độ ổn định cũng như tỷ lệ chính xác cao nhất.
 
-## Features
+### SỬ DỤNG NHẬN ĐỊNH BÓNG ĐÁ UY TÍN CHẤT LƯỢNG
 
-Here are certain features of this site.
+Website: [https://soikeo.sk](https://soikeo.sk) - [https://soikeo.tips](https://soikeo.tips)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Email: [soikeo@soikeo.sk](mailto:soikeo@soikeo.sk) - [lienhesoikeo@gmail.com](mailto:lienhesoikeo@gmail.com)
